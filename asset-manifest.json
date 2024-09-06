@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nike/static/css/main.51601e82.css",
+    "main.js": "/Nike/static/js/main.78df5a95.js",
+    "index.html": "/Nike/index.html",
+    "main.51601e82.css.map": "/Nike/static/css/main.51601e82.css.map",
+    "main.78df5a95.js.map": "/Nike/static/js/main.78df5a95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51601e82.css",
+    "static/js/main.78df5a95.js"
+  ]
+}
