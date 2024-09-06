@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Nike/static/css/main.51601e82.css",
-    "main.js": "/Nike/static/js/main.c19cba1b.js",
+    "main.js": "/Nike/static/js/main.f921d6b8.js",
     "index.html": "/Nike/index.html",
     "main.51601e82.css.map": "/Nike/static/css/main.51601e82.css.map",
-    "main.c19cba1b.js.map": "/Nike/static/js/main.c19cba1b.js.map"
+    "main.f921d6b8.js.map": "/Nike/static/js/main.f921d6b8.js.map"
   },
   "entrypoints": [
     "static/css/main.51601e82.css",
-    "static/js/main.c19cba1b.js"
+    "static/js/main.f921d6b8.js"
   ]
 }
