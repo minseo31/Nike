@@ -1,5 +1,8 @@
 # Nike Web Remake Project 
 
+# 이동하기
+https://minseo31.github.io/Nike/
+
 ## 개발 개요 📜
 - 패션 브랜드 Nike의 홈페이지를 리메이크하여 디자인한 프로젝트입니다.
 
